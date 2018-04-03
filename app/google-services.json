@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "428568185404",
+    "firebase_url": "https://carikan-foto.firebaseio.com",
+    "project_id": "carikan-foto",
+    "storage_bucket": "carikan-foto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428568185404:android:1654bae8a5a02326",
+        "android_client_info": {
+          "package_name": "com.example.jeh.irhamfakhri_1202150070_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428568185404-jrie5p5o05vol1j1rd6ifu28r6rpjb5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI08xCGV8RpoVAkAm9bG3hubhvV_OnhNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
